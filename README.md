@@ -1,4 +1,4 @@
-# Hex 64 Codec 
+# Hex Codec [![Build Status](https://travis-ci.org/branscha/lib-hex.svg?branch=master)](https://travis-ci.org/branscha/lib-hex)
 ## Goal
 
 Standard 'hex' encoding of raw strings.
