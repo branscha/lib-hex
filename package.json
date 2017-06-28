@@ -1,6 +1,6 @@
 {
   "name": "@branscha/hex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hex codec.",
   "main": "dist/hex.js",
   "scripts": {
